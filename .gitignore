@@ -1,0 +1,3 @@
+# Only .rs files in subfolders
+day*/*
+!*.rs
